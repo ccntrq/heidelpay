@@ -1,6 +1,8 @@
 Kirchbergerknorr Heidelpay 14.01.08
 ===================================
 
+**Please note that we are not the developer of this extension. In this repo we only added modman/composer support and fixed some bugs. We will not provide any support for this repository. If you have any problems on integration, please use the official link mentioned above.**
+
 Heidelberger Payment GmbH
 
 [Module in Magento Connect](http://www.magentocommerce.com/magento-connect/heidelpay-1.html)
